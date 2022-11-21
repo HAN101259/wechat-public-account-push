@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'PDU18052TYWDPSlse4x26MbYpyqpdIZhiYEv9ARWq',
+    id: '001',
     title: '亲爱的思思姐姐, 早上好',
     desc: `
       **{{date.DATA}}**
@@ -24,7 +24,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是你破壳的第{{love_day.DATA}}天
       
       {{birthday_message.DATA}}
       
@@ -36,7 +36,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: 'PDU18052TYWDPSlse4x26MbYpyqpdIZhiYEv9ARWq',
+    id: '002',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
