@@ -21,6 +21,7 @@ const TEMPLATE_CONFIG = [
       风级: {{wind_scale.DATA}}
       
       {{comprehensive_horoscope.DATA}}
+      {{ notice.DATA}}
       
       ---
       
