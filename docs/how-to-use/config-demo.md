@@ -15,7 +15,7 @@ const USER_CONFIG = {
   // 使用【微信测试号】请填写 wechat-test
   // 使用【方糖服务号】请填写 server-chan
   // 使用【pushplus推送加服务号】请填写 push-plus
-  USE_PASSAGE: 'wechat-test',
+  USE_PASSAGE: 'push-deer',
   
   // 使用微信测试号时才需要填写：公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
@@ -73,7 +73,7 @@ const USER_CONFIG = {
   
     /** 学生课表 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    courseSchedule: true,
+    courseSchedule: false,
   },
   
   TIAN_API: {
