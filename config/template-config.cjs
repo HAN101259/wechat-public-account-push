@@ -20,10 +20,7 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-       {{notice.DATA}}
-      
-      {{comprehensive_horoscope.DATA}}
-      
+     
       ---
       
       今天是你破壳的第{{love_day.DATA}}天
