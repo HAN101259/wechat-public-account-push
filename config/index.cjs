@@ -15,7 +15,7 @@ const USER_CONFIG = {
   APP_SECRET: '',
 
   PROVINCE: '四川',
-  CITY: '乐山',
+  CITY: '成都',
 
   USERS: [
     {
@@ -34,10 +34,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
       
-        {
-          type: '节日', name: '考研', year: '2022', date: '12-24',
-        },
-      ],
+       
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
