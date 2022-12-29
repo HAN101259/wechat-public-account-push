@@ -25,7 +25,7 @@ const TEMPLATE_CONFIG = [
       
       今天是你破壳的第{{love_day.DATA}}天
       
-      {{birthday_message.DATA}}
+   
       
       ---
       
